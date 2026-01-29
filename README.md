@@ -11,6 +11,8 @@ It focuses on data retrieval, filtering, aggregation, and analysis based on book
 - Books
 - Customers
 - Orders
+- 
+## CSV files are stored inside the `data/` folder.
 
 ## Queries Covered
 The project includes queries to:
